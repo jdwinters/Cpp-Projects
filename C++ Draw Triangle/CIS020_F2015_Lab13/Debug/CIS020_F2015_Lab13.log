@@ -1,0 +1,16 @@
+﻿Build started 11/22/2015 6:46:58 PM.
+     1>Project "G:\CIS020\CIS020_F2015_LabThirteen\CIS020_F2015_Lab13\CIS020_F2015_Lab13.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CIS020_F2015_Lab13.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Assemble.cpp
+         Assemble.cpp
+     1>g:\cis020\cis020_f2015_labthirteen\cis020_f2015_lab13\assemble.cpp(40): error C2146: syntax error : missing ';' before identifier 'DoAssembly'
+     1>g:\cis020\cis020_f2015_labthirteen\cis020_f2015_lab13\assemble.cpp(40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>g:\cis020\cis020_f2015_labthirteen\cis020_f2015_lab13\assemble.cpp(40): error C2146: syntax error : missing ')' before identifier 'triIn'
+     1>g:\cis020\cis020_f2015_labthirteen\cis020_f2015_lab13\assemble.cpp(40): error C2059: syntax error : ')'
+     1>g:\cis020\cis020_f2015_labthirteen\cis020_f2015_lab13\assemble.cpp(41): error C2143: syntax error : missing ';' before '{'
+     1>g:\cis020\cis020_f2015_labthirteen\cis020_f2015_lab13\assemble.cpp(41): error C2447: '{' : missing function header (old-style formal list?)
+     1>Done Building Project "G:\CIS020\CIS020_F2015_LabThirteen\CIS020_F2015_Lab13\CIS020_F2015_Lab13.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.77

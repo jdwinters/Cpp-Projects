@@ -1,0 +1,24 @@
+﻿Build started 12/13/2015 5:32:23 PM.
+     1>Project "G:\CIS020\CIS020_F2015_Lab15\CIS020_F2015_Lab15\CIS020_F2015_Lab15.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CIS020_F2015_Lab15.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Animate.cpp
+         Animate.cpp
+     1>g:\cis020\cis020_f2015_lab15\cis020_f2015_lab15\animate.cpp(481): warning C4102: 'POSITIVE' : unreferenced label
+     1>g:\cis020\cis020_f2015_lab15\cis020_f2015_lab15\animate.cpp(481): warning C4102: 'MOVE_RIGHT_ARM_BACKWARDS' : unreferenced label
+     1>g:\cis020\cis020_f2015_lab15\cis020_f2015_lab15\animate.cpp(481): warning C4102: 'MOVE_LEFT_ARM_FORWARD' : unreferenced label
+     1>g:\cis020\cis020_f2015_lab15\cis020_f2015_lab15\animate.cpp(481): warning C4102: 'LEFTARM' : unreferenced label
+     1>g:\cis020\cis020_f2015_lab15\cis020_f2015_lab15\animate.cpp(481): warning C4102: 'MOVE_RIGHT_LEG_BACKWARDS' : unreferenced label
+     1>g:\cis020\cis020_f2015_lab15\cis020_f2015_lab15\animate.cpp(481): warning C4102: 'MOVE_LEFT_LEG_FORWARD' : unreferenced label
+     1>g:\cis020\cis020_f2015_lab15\cis020_f2015_lab15\animate.cpp(481): warning C4102: 'LEFTLEG' : unreferenced label
+     1>g:\cis020\cis020_f2015_lab15\cis020_f2015_lab15\animate.cpp(481): warning C4102: 'MOVELEGS' : unreferenced label
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\CIS020\CIS020_F2015_Lab15\Debug\CIS020_F2015_Lab15.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\CIS020\CIS020_F2015_Lab15\Debug\CIS020_F2015_Lab15.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\CIS020\CIS020_F2015_Lab15\Debug\CIS020_F2015_Lab15.lib" /MACHINE:X86 Debug\CIS020_F2015_Lab15.res
+         Debug\Animate.obj
+         Debug\CIS020_F2015_Lab15.obj
+         Debug\stdafx.obj
+         CIS020_F2015_Lab15.vcxproj -> G:\CIS020\CIS020_F2015_Lab15\Debug\CIS020_F2015_Lab15.exe
+     1>Done Building Project "G:\CIS020\CIS020_F2015_Lab15\CIS020_F2015_Lab15\CIS020_F2015_Lab15.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.42
